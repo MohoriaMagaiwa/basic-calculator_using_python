@@ -22,7 +22,7 @@ README.md       # Project documentation
 
 Clone this repository or download the code:
 
-git clone https://github.com/MohoriaMagaiwa/continuous-calculator.git
+git clone https://github.com/MohoriaMagaiwa/basic-calculator_using_python.git
 
 
 Navigate to the project folder:
